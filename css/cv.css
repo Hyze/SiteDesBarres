@@ -1,0 +1,38 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Source Code Pro', calibri, tahoma, sans-serif;
+}
+
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.langue{
+    margin-bottom: 70px;
+}
+
+.lan-gauche{
+    float: left;
+}
+
+.lan-droite{
+    float: right;
+}
+
+.Particularité{
+    margin-bottom: 70px;
+}
+
+.Part-gauche{
+    float: left;
+}
